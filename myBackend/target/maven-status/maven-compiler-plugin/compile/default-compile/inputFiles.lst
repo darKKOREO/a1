@@ -1,0 +1,15 @@
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/dtos/AnnouncementsDTO.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/utils/ListMapper.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/dtos/AnnouncementDTO.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/repositories/AnnouncementRepository.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/services/CategoryService.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/controllers/AnnouncementController.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/services/AnnouncementService.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/repositories/CategoryRepository.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/dtos/CreateAnnouncementDTO.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/entities/Announcement.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/dtos/CategoryDTO.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/utils/ApplicationConfig.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/controllers/CategoryController.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/MyBackendApplication.java
+/home/sysadmin/project-01052023/project/mybackend/src/main/java/sit/thinktaegeb/mybackend/entities/Category.java
